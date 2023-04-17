@@ -1,0 +1,22 @@
+{
+  "name": "keep-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theshrish46/keep-notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theshrish46/keep-notes/issues"
+  },
+  "homepage": "https://github.com/theshrish46/keep-notes#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
